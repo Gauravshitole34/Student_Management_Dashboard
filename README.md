@@ -9,12 +9,12 @@ A simple dashboard for managing student records with CRUD functionality and data
 
 ***
 
-##Problem Statement
+## Problem Statement
 Educational institutions need simple tools to manage student information digitally.
 
 ***
 
-##Objectives
+## Objectives
 - Table display of student data
 
 - Add, view, update, delete student records
